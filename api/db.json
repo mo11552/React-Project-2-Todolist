@@ -1,0 +1,50 @@
+{
+  "todos": [
+    {
+      "title": "Go to school",
+      "description": "Pick up kid from school",
+      "id": 1
+    },
+    {
+      "title": "I created this todo",
+      "description": "This was made by me!",
+      "userId": "103779841641306547408",
+      "id": 2
+    },
+    {
+      "title": "Go to work",
+      "description": "Drive down to work at 8am",
+      "userId": "103779841641306547408",
+      "id": 3
+    },
+    {
+      "title": "Go to the gym",
+      "description": "Gym workout in the evening",
+      "userId": "103779841641306547408",
+      "id": 4
+    },
+    {
+      "title": "Go home",
+      "description": "Go Home at 10pm",
+      "id": 5
+    },
+    {
+      "title": "Do Laundry",
+      "description": "Laundry on Sunday night",
+      "userId": "103779841641306547408",
+      "id": 6
+    },
+    {
+      "title": "Go to Dinner",
+      "description": "Dinner at 7pm",
+      "userId": "103779841641306547408",
+      "id": 7
+    },
+    {
+      "title": "Go to the store",
+      "description": "Pick up food at the store",
+      "userId": "103779841641306547408",
+      "id": 8
+    }
+  ]
+}

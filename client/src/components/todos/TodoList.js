@@ -14,9 +14,9 @@ class TodoList extends React.Component {
   	  return (
   	  	<div className="right floated content">
   	  	 <Link to={`/todos/edit/${todo.id}`} className="ui button primary">Edit</Link>
-  	  	  <button className="ui button negative">
+  	  	  <Link to={`/todos/delete/${todo.id}`} className="ui button negative">
   	  	    Delete
-  	  	  </button>
+  	  	  </Link>
   	  	</div>
   	  );
   	}

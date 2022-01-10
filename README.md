@@ -6,7 +6,7 @@ React Project of a To-Do App using the React Redux and JSON-server.
 
 ## Technologies Used
 
-React, React Redux, Axios, JSON-server, React Router DOM, Javascript and CSS
+React, React Redux, Axios, JSON-server, React Router DOM and Javascript 
 
 ### `Quick Start`
 Download Repository
